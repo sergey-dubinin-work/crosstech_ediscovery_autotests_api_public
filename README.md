@@ -1,0 +1,2 @@
+# crosstech_ediscovery_autotests_api_public
+Проект по автоматизации тестирования API системы eDiscovery
